@@ -1,0 +1,10 @@
+tests/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.env.example
+requirements-dev.txt
+conftest.py
+Dockerfile
+.dockerignore
